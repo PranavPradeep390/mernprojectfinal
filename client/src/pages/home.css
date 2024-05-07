@@ -1,0 +1,9 @@
+.homepic{
+width: 100%;
+height: 600px;
+background-image: url("https://images.pexels.com/photos/5632371/pexels-photo-5632371.jpeg?cs=srgb&dl=pexels-karolina-grabowska-5632371.jpg&fm=jpg");
+background-size: cover;
+background-position: bottom;
+}
+
+
